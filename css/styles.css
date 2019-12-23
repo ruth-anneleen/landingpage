@@ -152,9 +152,9 @@ a.white {
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.375rem 2.625rem 1.375rem 2.625rem;
-	border: 0.125rem solid #00c9db;
-	border-radius: 2rem;
-	background-color: #00c9db;
+	border: 0.125rem solid #00A676;
+	border-radius: 1rem;
+	background-color: #00A676;
 	color: #fff;
 	font: 700 0.75rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
@@ -1004,12 +1004,6 @@ input[type='checkbox'] {
 /*********************/
 /*     06. Video     */
 /*********************/
-.basic-1 {
-	padding-top: 6.375rem;
-	padding-bottom: 6.875rem;
-	background: url('../images/video-background.jpg') center center no-repeat;
-	background-size: cover; 
-}
 
 .basic-1 h2 {
 	margin-bottom: 1.125rem;
@@ -1516,10 +1510,6 @@ a:hover.back-to-top {
 
 .ex-basic-2 .image-container-large {
 	margin-bottom: 4rem;
-}
-
-.ex-basic-2 .image-container-large img {
-	border-radius: 0.25rem;
 }
 
 .ex-basic-2 .image-container-small img {
